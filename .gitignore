@@ -22,3 +22,5 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+/Conversor de monedas/nbproject
+!/Conversor de monedas/src/com/alura/conversor/lib/gson-2.11.0.jar
