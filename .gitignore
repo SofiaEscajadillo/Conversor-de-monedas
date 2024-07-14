@@ -31,3 +31,4 @@ dist/
 nbdist/
 .nb-gradle/
 !/Conversor de monedas/src/com/alura/conversor/lib/gson-2.11.0.jar
+/Conversor de monedas/build/
